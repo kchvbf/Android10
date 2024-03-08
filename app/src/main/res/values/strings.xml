@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+
+    <string name="cancel_btn_text">Отменить</string>
+
+    <string name="name_label">Имя </string>
+    <string name="phone_label">Телефон </string>
+    <string name="note_label">Заметка </string>
+
+
+
+    <string name="no_note_text">Нет заметок</string>
+
+
+    <string name="new_note_dialog_text">Новая заметка</string>
+
+    <string name="save_btn_text">Сохранить</string>
+
+
+    <string name="edit_note_dialog_title">Редактировать заметку</string>
+
+
+    <string name="contacts_text_title">Контакты</string>
+</resources>
